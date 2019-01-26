@@ -80,6 +80,7 @@ implementation
 uses ScrForm;
 
 {$R *.DFM}
+{$R ColorPick.res} // Это курсор с пипеткой для полноэкранного режима.
 
 const
   crPick = 5;
